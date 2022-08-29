@@ -160,14 +160,14 @@ https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w1443568733.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dc313ddd3bc4d8de0f5939ee8410a56e.webp" group-title="TV FILMES", Tv Tremembé Ao Vivo
 https://livefocamundo.com:8081/tvtremembe/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e49738a8073bf9b8d558abdeb0c17e76.webp" group-title="TV FILMES", Escuchame Radio Tv Ao Vivo
+https://stmv1.voxtvhd.com.br/escuchame/escuchame/chunklist_w863252503.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f37d55780687ac603e39c26592ae36a9.webp" group-title="TV FILMES", Runtime - English Ao Vivo
+https://stream.ads.ottera.tv/cl/4b9a7138-ab2f-4074-98e1-2259cb52423c/1920x1080_4129052_5_f.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e598d43eaf39f79c2fa72da53417ac6d.webp" group-title="TV FILMES", Runtime - France Ao Vivo
+https://stream.ads.ottera.tv/cl/66fa61d1-ccdd-4f64-b4f9-218fe277c70c/1280x720_3071200_0_f.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
 LINK🔴
