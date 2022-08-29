@@ -130,8 +130,8 @@ https://stmv2.voxtvhd.com.br/tvwm/tvwm/chunklist_w1060903996.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d8e9cfe9b910731a2ba29ede0a63cacd.webp" group-title="TV FILMES", Runtime Comédia Ao Vivo
 https://stream.ads.ottera.tv/cl/3bb3e137-8a06-4f04-8d85-4f2cbef90cc9/1280x720_3071200_0_f.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/937135af086f7ac9580df4a30ffe8a05.webp" group-title="TV FILMES", TV CEI Ao Vivo
+https://alanza.iptv2022.com/TV_CEI/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
 LINK🔴
