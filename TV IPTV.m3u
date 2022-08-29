@@ -43,8 +43,23 @@ https://srv5.zcast.com.br/redeclonetv/redeclonetv/chunklist_w1743306772.m3u8
 #EXTINF:-1 tvg-logo="Ihttps://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe8a71553baebc0bfb26608e5a464a3b.webp" group-title="TV FILMES", TV CARIOCA.NET Ao Vivo
 https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/chunklist_w198549874.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/40d7d18ac1b8c2e6b87ecf0e3410cad7.webp" group-title="TV FILMES", Tv Osório News Ao Vivo
+https://stmv1.srvif.com/classique/classique/chunklist_w731373009.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69cf38e0cd65c06291dc072f3f9270b1.webp" group-title="TV FILMES", Tv Aracati HD Ao Vivo
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="TV FILMES", Retro Plus TV Ao Vivo
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1773982089.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/75cea551f496b790ce1326e2a203366d.webp" group-title="TV FILMES", HITS TV Ao Vivo
+https://strv3.estbrasil.com/hitstv/hitstv/chunklist_w331885464.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ee32135a0ae4307048d3b24d0891738f.webp" group-title="TV FILMES", Tela Viva Tv Ao Vivo
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1202627126.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/db24d44b23d48de613d70881b8f1d013.webp" group-title="TV FILMES", Classique Western TV Ao Vivo
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w680338912.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
 LINK🔴
@@ -70,10 +85,43 @@ LINK🔴
 #EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
 LINK🔴
 
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
 
 
 
 
+
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
 
 #EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
 LINK🔴
