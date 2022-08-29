@@ -133,14 +133,14 @@ https://stream.ads.ottera.tv/cl/3bb3e137-8a06-4f04-8d85-4f2cbef90cc9/1280x720_30
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/937135af086f7ac9580df4a30ffe8a05.webp" group-title="TV FILMES", TV CEI Ao Vivo
 https://alanza.iptv2022.com/TV_CEI/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4105f4374c811c5e233dddb029e79c0d.webp" group-title="TV FILMES", Runtime Español - Cine Y Series Ao Vivo
+https://stream.ads.ottera.tv/cl/e357f0bf-40a8-4677-a26c-bf0f480606d1/1280x720_3071200_0_f.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/49655e7e2ed98c26adc7833b62d16ffb.webp" group-title="TV FILMES", Tv Metro (Rede Metropolitana) Ao Vivo
+https://alanza.iptv2022.com/vmetropolitana/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/965ea388c91bb303d5621e2b4044cfde.webp" group-title="TV FILMES", Tebeo Tv Ao Vivo
+https://start-1.direct.live/hls/tebeo_low/index.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
 LINK🔴
