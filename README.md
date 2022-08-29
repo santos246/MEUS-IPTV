@@ -5,16 +5,14 @@
 TV IPTV
 </span></a></p>
 
-<p><a href="
-LINK🔴
+<p><a href="https://raw.githubusercontent.com/santos246/MEUS-IPTV/main/FILMES%20IPTV.m3u
 " target="_blank"><span style="color: #F4FA58; font-size: 18pt; background: red; border-radius:0px; padding:2px">
-NOME🔴
+FILME IPTV
 </span></a></p>
 
-<p><a href="
-LINK🔴
+<p><a href="https://raw.githubusercontent.com/santos246/MEUS-IPTV/main/VIDEOS%20IPTV.m3u
 " target="_blank"><span style="color: #F4FA58; font-size: 18pt; background: red; border-radius:0px; padding:2px">
-NOME🔴
+VIDEOS IPTV
 </span></a></p>
 
 <p><a href="
