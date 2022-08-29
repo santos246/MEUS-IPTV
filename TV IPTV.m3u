@@ -22,14 +22,38 @@ https://stream.ads.ottera.tv/cl/bc45f676-df5f-4ca3-b14d-aab82d0a81e2/1280x720_30
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhRVak-9ez9jspuOPveFXudo_1lcK3EICxa0qx4Qirc929d1wiY9U1kipB-wgYNJ1MSoOJ8nZX85JRMmeNqIKP-ujqMWZEiX4sPkg3xJRnJH3oWzHKwvXQlL2FU1Id4abd_dImJX7BggE0_ATmi-3FuktltKAspDg_20wUcEB_Er3Ut2G4HwOSLpmcu=s200" group-title="TV FILMES", RUNTIME AÇÃO
 https://stream.ads.ottera.tv/cl/f988eb0b-7ca2-48fd-a184-ae26107c0b86/1280x720_3071200_0_f.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JsTEwsw1-FQ/YM9qe1_J1iI/AAAAAAAAE48/nAOnbSjZHhgQ9-Hoyc0b4smdZtChLFJCwCLcBGAsYHQ/s0/CLASSIQUE%2BTV.png" group-title="TV FILMES", CLASSIQUE TV
-https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fxAdBrtQEK0/YTEF5VUhVhI/AAAAAAAAFVA/Ou4PcDg1icYNsplmTO3LZFVStSXoEUPDACLcBGAsYHQ/s200/GOSPEL%2BMOVIES%2BTELEVISION.webp" group-title="TV FILMES", GOSPEL MOVIES TELEVISION
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w295677575.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9IP3_TYrw3w0kD8UMgeBuXOmjaWhvAOTWfi_aTGJwlnRGG7uYh52e5TUpy8YR4dqGxarDV63WxSM7-rUgvNQFwiJokbgmDrRd_ixdgR-e84PtarSzT3z4YezRlJFyQf-zC5YM1DmDpKTVA11JKrTByi7iIoDeBpueAgCohQfJ0BP4cLgXrgSspZH9/s200/FRONTEIRA%20MOVIES.webp" group-title="TV FILMES", FRONTEIRA MOVIES
 https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/chunklist_w1487374814.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="TV FILMES", Bons Tempos Ao Vivo
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w660050299.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/330749dcc61ffa6816423d9d3452808e.webp" group-title="TV FILMES", Tv Nova Play Ao Vivo
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1050747431.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="TV FILMES", Web Tv Cine Ao Vivo
+https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w653421043.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp" group-title="TV FILMES", Rede Clone Ao Vivo
+https://srv5.zcast.com.br/redeclonetv/redeclonetv/chunklist_w1743306772.m3u8
+
+#EXTINF:-1 tvg-logo="Ihttps://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe8a71553baebc0bfb26608e5a464a3b.webp" group-title="TV FILMES", TV CARIOCA.NET Ao Vivo
+https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/chunklist_w198549874.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
 
 #EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
 LINK🔴
