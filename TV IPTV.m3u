@@ -76,20 +76,20 @@ https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w737395
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f24b1cd1064865c050503ea604e4526a.webp" group-title="TV FILMES", Tv J.SID Ao Vivo
 https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fc7b83a5a19d96b87517b1e95e9b0565.webp" group-title="TV FILMES", CHANNEL 1 Ao Vivo
+https://stmv1.srvif.com/channel1/channel1/chunklist_w261045115.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/de5f9dc3cb6aaae79544c5747dcfd9d1.webp" group-title="TV FILMES", Rede TV Sul Ao Vivo
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w1068513600.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d70379da61c7306ecd734045799ce0a0.webp" group-title="TV FILMES", Tv Recordações Web CE Ao Vivo
+https://srv4.zcast.com.br/tvrecordacoeswebce/tvrecordacoeswebce/chunklist_w463826221.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3988457040bce0bd05af600734dd1f0.webp" group-title="TV FILMES", Ghost Tv Ao Vivo
+https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w2108694119.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="TV FILMES", CinePIX TV Ao Vivo
+https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w919522306.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
 LINK🔴
