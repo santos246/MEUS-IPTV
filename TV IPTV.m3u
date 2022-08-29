@@ -121,14 +121,39 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be5929ddae88334894bd8e48ac6c4e85.webp" group-title="TV FILMES", Tv Web Sul Bahia Ao Vivo
 https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w44714930.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/775da338d2d26bef54d0537d28580367.webp" group-title="TV FILMES", TV CNB Ao Vivo
 https://livefocamundo.com:8081/tvcnb/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5e249472f83e34e44979ae5e82cbe9ed.webp" group-title="TV FILMES", TV WM Ao Vivo
+https://stmv2.voxtvhd.com.br/tvwm/tvwm/chunklist_w1060903996.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d8e9cfe9b910731a2ba29ede0a63cacd.webp" group-title="TV FILMES", Runtime Comédia Ao Vivo
+https://stream.ads.ottera.tv/cl/3bb3e137-8a06-4f04-8d85-4f2cbef90cc9/1280x720_3071200_0_f.m3u8
+
 #EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
 LINK🔴
 
 #EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
 LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
 
 
 
