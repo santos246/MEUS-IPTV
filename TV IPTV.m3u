@@ -73,8 +73,8 @@ https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjo
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dc4f4fddc2330b377037d229aee44942.webp" group-title="TV FILMES", Tv Confiego Ao Vivo
 https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w737395124.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f24b1cd1064865c050503ea604e4526a.webp" group-title="TV FILMES", Tv J.SID Ao Vivo
+https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
 LINK🔴
