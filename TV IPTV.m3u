@@ -142,6 +142,54 @@ https://alanza.iptv2022.com/vmetropolitana/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/965ea388c91bb303d5621e2b4044cfde.webp" group-title="TV FILMES", Tebeo Tv Ao Vivo
 https://start-1.direct.live/hls/tebeo_low/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd5a38936b50ea78212770473565ee6.webp" group-title="TV FILMES", Movie Fe Ao Vivo
+https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1181582574.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5d7f4c1f506ae8ba3a8e002f1663e6b9.webp" group-title="TV FILMES", PPZ TV Ao Vivo
+https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/84486a4924a75dd40c40b330d2194820.webp" group-title="TV FILMES", Dubai One Ao Vivo
+https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/92c871be35b8395afbb31f8986691c2a.webp" group-title="TV FILMES", BLITS TV Ao Vivo
+https://video01.logicahost.com.br/blitstv/blitstv/chunklist_w1348462122.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3887b3ba2258769221444dbb4e42a93d.webp" group-title="TV FILMES", X PLUS TV Ao Vivo
+https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w1443568733.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dc313ddd3bc4d8de0f5939ee8410a56e.webp" group-title="TV FILMES", Tv Tremembé Ao Vivo
+https://livefocamundo.com:8081/tvtremembe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+LINK🔴
+
 #EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
 LINK🔴
 
