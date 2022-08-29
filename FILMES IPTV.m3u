@@ -1,0 +1,34 @@
+﻿#EXTM3U
+
+
+
+
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES🔴" TEST C VIRGULA,
+https://www.googleapis.com/drive/v3/files/1z51hVUqlq19mXY193f_F1S70_lp2Agw8?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES🔴" NOME🔴,
+LINK🔴
+
+
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES🔴", SEM VIRGULA
+https://www.googleapis.com/drive/v3/files/1z51hVUqlq19mXY193f_F1S70_lp2Agw8?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES🔴", NOME🔴
+LINK🔴
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
