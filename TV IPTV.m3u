@@ -109,11 +109,11 @@ https://stmv1.srvsh.com.br/paulo2505/paulo2505/chunklist_w669384174.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/26827ace5c5608c773bbb53cd2486997.webp" group-title="TV FILMES", Rede QDM Ao Vivo
 https://video01.logicahost.com.br/tvkidmais/tvkidmais/chunklist_w485533471.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5c0a419da543d1d2b542881b96619288.webp" group-title="TV FILMES", Noovo Ao Vivo
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/140d9093b2506a4dd66e9cccc011f416.webp" group-title="TV FILMES", Uni Tv Buritama Ao Vivo
+https://stmv1.srvif.com/unifm/unifm/chunklist_w1295846664.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
 LINK🔴
