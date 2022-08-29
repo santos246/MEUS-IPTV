@@ -103,11 +103,11 @@ https://stream.ads.ottera.tv/cl/3e091c60-112b-4094-abb3-3127f9c76720/1280x720_30
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp" group-title="TV FILMES", Runtime Ação Ao Vivo
 https://stream.ads.ottera.tv/cl/2b24be2e-d8be-44ae-9714-01dea94c1e5f/1280x720_3071200_0_f.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1df98ae4a11ac54fcc8117d21c8d6d7a.webp" group-title="TV FILMES", Up Webtv Ao Vivo
+https://stmv1.srvsh.com.br/paulo2505/paulo2505/chunklist_w669384174.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/26827ace5c5608c773bbb53cd2486997.webp" group-title="TV FILMES", Rede QDM Ao Vivo
+https://video01.logicahost.com.br/tvkidmais/tvkidmais/chunklist_w485533471.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
 LINK🔴
