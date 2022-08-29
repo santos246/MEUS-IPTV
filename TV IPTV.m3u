@@ -97,32 +97,32 @@ https://stmv1.srvif.com/unifm/unifm/chunklist_w1295846664.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2322d929ab7c617fbab73beb02b6d7f7.webp" group-title="TV FILMES", Tv Metropolitana Rio Ao Vivo
 https://alanza.iptv2022.com/METROPOLITANA_RIO/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/275fb37c30d000f0632a8b53100d64a3.webp" group-title="TV FILMES", v Lagoa Dantas Ao Vivo
+https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/chunklist_w1077108309.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/201268781ec24a5c76b969a55f057857.webp" group-title="TV FILMES", Fronteira Movies Ao Vivo
+https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/chunklist_w865930863.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/defbef096dfcaadf33b5108f84c4d867.webp" group-title="TV FILMES", Classique TV 2 Ao Vivo
+https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w100483763.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bb42115ec41fea4ac36dec93b294d2e2.webp" group-title="TV FILMES", Runtime Español Ao Vivo
+https://stream.ads.ottera.tv/cl/f4959f8f-905f-400e-b604-a3fbe33278e0/1280x720_3071200_0_f.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/435332dbd722b755f94a987934027d57.webp" group-title="TV FILMES", TV VelhaCap Ao Vivo
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLtqmTunyS9eOO2w0kFXum6j9lIRCiDSdqgszjIeKZg4K)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/084299119e2cf7e1b863489165dd5af3.webp" group-title="TV FILMES", TV Teen Net Ao Vivo
+https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="TV FILMES", Retro Plus Tv 3 Ao Vivo
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w405394200.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be5929ddae88334894bd8e48ac6c4e85.webp" group-title="TV FILMES", Tv Web Sul Bahia Ao Vivo
+https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w44714930.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
-LINK🔴
+https://livefocamundo.com:8081/tvcnb/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
 LINK🔴
