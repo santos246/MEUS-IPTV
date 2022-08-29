@@ -37,9 +37,6 @@ https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/chunklist_w198549874.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/40d7d18ac1b8c2e6b87ecf0e3410cad7.webp" group-title="TV FILMES", Tv Osório News Ao Vivo
 https://stmv1.srvif.com/classique/classique/chunklist_w731373009.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69cf38e0cd65c06291dc072f3f9270b1.webp" group-title="TV FILMES", Tv Aracati HD Ao Vivo
-https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="TV FILMES", Retro Plus TV Ao Vivo
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1773982089.m3u8
 
