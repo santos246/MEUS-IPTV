@@ -12,8 +12,7 @@
 http://a5telecom.tvpn.eu:80/0427/0427/20
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (02)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (02)
 http://a5telecom.tvpn.eu:80/0427/0427/21
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (03)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (03)
-http://a5telecom.tvpn.eu:80/0427/0427/22
+
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (04)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (04)
 http://a5telecom.tvpn.eu:80/0427/0427/23
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (05)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (05)
@@ -22,16 +21,14 @@ http://a5telecom.tvpn.eu:80/0427/0427/24
 http://a5telecom.tvpn.eu:80/0427/0427/25
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (07)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (07)
 http://a5telecom.tvpn.eu:80/0427/0427/26
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (08)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (08)
-http://a5telecom.tvpn.eu:80/0427/0427/27
+
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (09)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (09)
 http://a5telecom.tvpn.eu:80/0427/0427/28
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (10)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (10)
 http://a5telecom.tvpn.eu:80/0427/0427/29
 #EXTINF:-1 tvg-id="a&e.br" tvg-name="A&E" tvg-logo="https://distv.net/icones/ae.png" group-title="Canais | Filmes e Séries",A&E
 http://a5telecom.tvpn.eu:80/0427/0427/128
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://distv.net/icones/amc.png" group-title="Canais | Filmes e Séries",AMC
-http://a5telecom.tvpn.eu:80/0427/0427/129
+
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://distv.net/icones/axn.png" group-title="Canais | Filmes e Séries",AXN
 http://a5telecom.tvpn.eu:80/0427/0427/130
 #EXTINF:-1 tvg-id="CNLBRSH" tvg-name="Canal Brasil" tvg-logo="https://distv.net/icones/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil
@@ -64,8 +61,7 @@ http://a5telecom.tvpn.eu:80/0427/0427/148
 http://a5telecom.tvpn.eu:80/0427/0427/149
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://distv.net/icones/tcm.png" group-title="Canais | Filmes e Séries",TCM
 http://a5telecom.tvpn.eu:80/0427/0427/177
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT" tvg-logo="https://distv.net/icones/tnt.png" group-title="Canais | Filmes e Séries",TNT
-http://a5telecom.tvpn.eu:80/0427/0427/157
+
 #EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series" tvg-logo="https://distv.net/icones/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series
 http://a5telecom.tvpn.eu:80/0427/0427/158
 #EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV" tvg-logo="https://distv.net/icones/tvuniversal.png" group-title="Canais | Filmes e Séries",Universal TV
@@ -78,12 +74,10 @@ http://a5telecom.tvpn.eu:80/0427/0427/150
 http://a5telecom.tvpn.eu:80/0427/0427/151
 #EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun" tvg-logo="https://distv.net/icones/tcfun.png" group-title="Canais | Telecine",Telecine Fun
 http://a5telecom.tvpn.eu:80/0427/0427/152
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca" tvg-logo="https://distv.net/icones/tcpipoca.png" group-title="Canais | Telecine",Telecine Pipoca
-http://a5telecom.tvpn.eu:80/0427/0427/153
+
 #EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium" tvg-logo="https://distv.net/icones/tcpremium.png" group-title="Canais | Telecine",Telecine Premium
 http://a5telecom.tvpn.eu:80/0427/0427/154
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch" tvg-logo="https://distv.net/icones/tctouch.png" group-title="Canais | Telecine",Telecine Touch
-http://a5telecom.tvpn.eu:80/0427/0427/155
+
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO" tvg-logo="https://distv.net/icones/hbo.png" group-title="Canais | HBO",HBO
 http://a5telecom.tvpn.eu:80/0427/0427/135
 #EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO (02)" tvg-logo="https://distv.net/icones/hbo2.png" group-title="Canais | HBO",HBO (02)
@@ -100,90 +94,13 @@ http://a5telecom.tvpn.eu:80/0427/0427/140
 http://a5telecom.tvpn.eu:80/0427/0427/141
 #EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme" tvg-logo="https://distv.net/icones/hboextreme.png" group-title="Canais | HBO",HBO Xtreme
 http://a5telecom.tvpn.eu:80/0427/0427/142
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports" tvg-logo="https://distv.net/icones/bandsports.png" group-title="Canais | Sports",Band Sports
-http://a5telecom.tvpn.eu:80/0427/0427/31
-#EXTINF:-1 tvg-id="COMBATP" tvg-name="Combate" tvg-logo="https://distv.net/icones/combate.png" group-title="Canais | Sports",Combate
-http://a5telecom.tvpn.eu:80/0427/0427/32
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN" tvg-logo="https://distv.net/icones/espn.png" group-title="Canais | Sports",ESPN
-http://a5telecom.tvpn.eu:80/0427/0427/35
-#EXTINF:-1 tvg-id="CBESPN2" tvg-name="ESPN (02)" tvg-logo="https://distv.net/icones/espn2.png" group-title="Canais | Sports",ESPN (02)
-http://a5telecom.tvpn.eu:80/0427/0427/33
-#EXTINF:-1 tvg-id="CBESPN3" tvg-name="ESPN (03)" tvg-logo="https://distv.net/icones/espn3.png" group-title="Canais | Sports",ESPN (03)
-http://a5telecom.tvpn.eu:80/0427/0427/34
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN (04)" tvg-logo="https://distv.net/icones/espn4.png" group-title="Canais | Sports",ESPN (04)
-http://a5telecom.tvpn.eu:80/0427/0427/37
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra" tvg-logo="https://distv.net/icones/espnextra.png" group-title="Canais | Sports",ESPN Extra
-http://a5telecom.tvpn.eu:80/0427/0427/36
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports (02)" tvg-logo="https://distv.net/icones/foxsports2.png" group-title="Canais | Sports",Fox Sports (02)
-http://a5telecom.tvpn.eu:80/0427/0427/38
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SportTV" tvg-logo="https://distv.net/icones/sportv.png" group-title="Canais | Sports",SportTV
-http://a5telecom.tvpn.eu:80/0427/0427/46
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SportTV (02)" tvg-logo="https://distv.net/icones/sportv2.png" group-title="Canais | Sports",SportTV (02)
-http://a5telecom.tvpn.eu:80/0427/0427/47
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SportTV (03)" tvg-logo="https://distv.net/icones/sportv3.png" group-title="Canais | Sports",SportTV (03)
-http://a5telecom.tvpn.eu:80/0427/0427/48
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes" tvg-logo="https://distv.net/icones/premiereclubes.png" group-title="Canais | Premiere",Premiere Clubes
-http://a5telecom.tvpn.eu:80/0427/0427/39
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere (02)" tvg-logo="https://distv.net/icones/premiere2.png" group-title="Canais | Premiere",Premiere (02)
-http://a5telecom.tvpn.eu:80/0427/0427/40
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere (03)" tvg-logo="https://distv.net/icones/premiere3.png" group-title="Canais | Premiere",Premiere (03)
-http://a5telecom.tvpn.eu:80/0427/0427/41
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere (04)" tvg-logo="https://distv.net/icones/premiere4.png" group-title="Canais | Premiere",Premiere (04)
-http://a5telecom.tvpn.eu:80/0427/0427/42
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere (05)" tvg-logo="https://distv.net/icones/premiere5.png" group-title="Canais | Premiere",Premiere (05)
-http://a5telecom.tvpn.eu:80/0427/0427/43
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere (06)" tvg-logo="https://distv.net/icones/premiere6.png" group-title="Canais | Premiere",Premiere (06)
-http://a5telecom.tvpn.eu:80/0427/0427/44
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere (07)" tvg-logo="https://distv.net/icones/premiere7.png" group-title="Canais | Premiere",Premiere (07)
-http://a5telecom.tvpn.eu:80/0427/0427/45
-#EXTINF:-1 tvg-id="TNTSPOR" tvg-name="TNT Sports (01)" tvg-logo="https://distv.net/icones/tntsports.png" group-title="Canais | Pay-Per-View",TNT Sports (01)
-http://a5telecom.tvpn.eu:80/0427/0427/57
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports (02)" tvg-logo="https://distv.net/icones/tntsports.png" group-title="Canais | Pay-Per-View",TNT Sports (02)
-http://a5telecom.tvpn.eu:80/0427/0427/58
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports (03)" tvg-logo="https://distv.net/icones/tntsports.png" group-title="Canais | Pay-Per-View",TNT Sports (03)
-http://a5telecom.tvpn.eu:80/0427/0427/59
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports (04)" tvg-logo="https://distv.net/icones/tntsports.png" group-title="Canais | Pay-Per-View",TNT Sports (04)
-http://a5telecom.tvpn.eu:80/0427/0427/60
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports (05)" tvg-logo="https://distv.net/icones/tntsports.png" group-title="Canais | Pay-Per-View",TNT Sports (05)
-http://a5telecom.tvpn.eu:80/0427/0427/171
-#EXTINF:-1 tvg-id="conmeboltv1.br" tvg-name="Conmebol (01)" tvg-logo="https://distv.net/icones/conmebol.png" group-title="Canais | Pay-Per-View",Conmebol (01)
-http://a5telecom.tvpn.eu:80/0427/0427/49
-#EXTINF:-1 tvg-id="conmeboltv2.br" tvg-name="Conmebol (02)" tvg-logo="https://distv.net/icones/conmebol.png" group-title="Canais | Pay-Per-View",Conmebol (02)
-http://a5telecom.tvpn.eu:80/0427/0427/50
-#EXTINF:-1 tvg-id="conmeboltv3.br" tvg-name="Conmebol (03)" tvg-logo="https://distv.net/icones/conmebol.png" group-title="Canais | Pay-Per-View",Conmebol (03)
-http://a5telecom.tvpn.eu:80/0427/0427/51
-#EXTINF:-1 tvg-id="conmeboltv4.br" tvg-name="Conmebol (04)" tvg-logo="https://distv.net/icones/conmebol.png" group-title="Canais | Pay-Per-View",Conmebol (04)
-http://a5telecom.tvpn.eu:80/0427/0427/52
-#EXTINF:-1 tvg-id="" tvg-name="Star+" tvg-logo="https://distv.net/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+
-http://a5telecom.tvpn.eu:80/0427/0427/178
-#EXTINF:-1 tvg-id="" tvg-name="Star+ (02)" tvg-logo="https://distv.net/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+ (02)
-http://a5telecom.tvpn.eu:80/0427/0427/179
-#EXTINF:-1 tvg-id="" tvg-name="Star+ (03)" tvg-logo="https://distv.net/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+ (03)
-http://a5telecom.tvpn.eu:80/0427/0427/237
-#EXTINF:-1 tvg-id="" tvg-name="Star+ (04)" tvg-logo="https://distv.net/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+ (04)
-http://a5telecom.tvpn.eu:80/0427/0427/236
-#EXTINF:-1 tvg-id="" tvg-name="Star+ (05)" tvg-logo="https://distv.net/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+ (05)
-http://a5telecom.tvpn.eu:80/0427/0427/180
-#EXTINF:-1 tvg-id="" tvg-name="Star+ (06)" tvg-logo="https://distv.net/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+ (06)
-http://a5telecom.tvpn.eu:80/0427/0427/181
-#EXTINF:-1 tvg-id="" tvg-name="Star+ (07)" tvg-logo="https://distv.net/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+ (07)
-http://a5telecom.tvpn.eu:80/0427/0427/182
-#EXTINF:-1 tvg-id="" tvg-name="DAZN (01)" tvg-logo="https://distv.net/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (01)
-http://a5telecom.tvpn.eu:80/0427/0427/259
-#EXTINF:-1 tvg-id="" tvg-name="DAZN (02)" tvg-logo="https://distv.net/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (02)
-http://a5telecom.tvpn.eu:80/0427/0427/260
-#EXTINF:-1 tvg-id="" tvg-name="DAZN (03)" tvg-logo="https://distv.net/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (03)
-http://a5telecom.tvpn.eu:80/0427/0427/175
-#EXTINF:-1 tvg-id="" tvg-name="DAZN (04)" tvg-logo="https://distv.net/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (04)
-http://a5telecom.tvpn.eu:80/0427/0427/174
-#EXTINF:-1 tvg-id="" tvg-name="DAZN (05)" tvg-logo="https://distv.net/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (05)
-http://a5telecom.tvpn.eu:80/0427/0427/173
-#EXTINF:-1 tvg-id="" tvg-name="DAZN (06)" tvg-logo="https://distv.net/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (06)
-http://a5telecom.tvpn.eu:80/0427/0427/172
-#EXTINF:-1 tvg-id="" tvg-name="DAZN (07)" tvg-logo="https://distv.net/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (07)
-http://a5telecom.tvpn.eu:80/0427/0427/249
-#EXTINF:-1 tvg-id="HBMAX" tvg-name="HBO Max (01)" tvg-logo="https://distv.net/icones/hbomax1.png" group-title="Canais | Pay-Per-View",HBO Max (01)
-http://a5telecom.tvpn.eu:80/0427/0427/251
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="HBMAX" tvg-name="HBO Max (02)" tvg-logo="https://distv.net/icones/hbomax1.png" group-title="Canais | Pay-Per-View",HBO Max (02)
 http://a5telecom.tvpn.eu:80/0427/0427/252
 #EXTINF:-1 tvg-id="" tvg-name="HBO Max (03)" tvg-logo="https://distv.net/icones/hbomax1.png" group-title="Canais | Pay-Per-View",HBO Max (03)
@@ -192,18 +109,9 @@ http://a5telecom.tvpn.eu:80/0427/0427/253
 http://a5telecom.tvpn.eu:80/0427/0427/230
 #EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video (02)" tvg-logo="https://distv.net/icones/primevideo.png" group-title="Canais | Pay-Per-View",Amazon Prime Video (02)
 http://a5telecom.tvpn.eu:80/0427/0427/231
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste (01)" tvg-logo="https://distv.net/icones/copadonordeste.png" group-title="Canais | Pay-Per-View",Copa do Nordeste (01)
-http://a5telecom.tvpn.eu:80/0427/0427/53
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste (02)" tvg-logo="https://distv.net/icones/copadonordeste.png" group-title="Canais | Pay-Per-View",Copa do Nordeste (02)
-http://a5telecom.tvpn.eu:80/0427/0427/54
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste (03)" tvg-logo="https://distv.net/icones/copadonordeste.png" group-title="Canais | Pay-Per-View",Copa do Nordeste (03)
-http://a5telecom.tvpn.eu:80/0427/0427/55
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste (04)" tvg-logo="https://distv.net/icones/copadonordeste.png" group-title="Canais | Pay-Per-View",Copa do Nordeste (04)
-http://a5telecom.tvpn.eu:80/0427/0427/56
-#EXTINF:-1 tvg-id="EURSPHD" tvg-name="EuroSport (01)" tvg-logo="https://distv.net/icones/eurosport1.png" group-title="Canais | Pay-Per-View",EuroSport (01)
-http://a5telecom.tvpn.eu:80/0427/0427/223
-#EXTINF:-1 tvg-id="ES2ESP" tvg-name="EuroSport (02)" tvg-logo="https://distv.net/icones/eurosport2.png" group-title="Canais | Pay-Per-View",EuroSport (02)
-http://a5telecom.tvpn.eu:80/0427/0427/224
+
+
+
 #EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel" tvg-logo="https://distv.net/icones/discoverychannel.png" group-title="Canais | Discovery",Discovery Channel
 http://a5telecom.tvpn.eu:80/0427/0427/101
 #EXTINF:-1 tvg-id="discoveryhome&health.br" tvg-name="Discovery H & Health" tvg-logo="https://distv.net/icones/discoveryhomehealth.png" group-title="Canais | Discovery",Discovery H & Health
@@ -216,12 +124,10 @@ http://a5telecom.tvpn.eu:80/0427/0427/104
 http://a5telecom.tvpn.eu:80/0427/0427/105
 #EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo" tvg-logo="https://distv.net/icones/discoveryturbo.png" group-title="Canais | Discovery",Discovery Turbo
 http://a5telecom.tvpn.eu:80/0427/0427/106
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World" tvg-logo="https://distv.net/icones/discoveryworld.png" group-title="Canais | Discovery",Discovery World
-http://a5telecom.tvpn.eu:80/0427/0427/107
+
 #EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV" tvg-logo="https://distv.net/icones/hgtv.png" group-title="Canais | Discovery",HGTV
 http://a5telecom.tvpn.eu:80/0427/0427/112
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet" tvg-logo="https://distv.net/icones/animalplanet.png" group-title="Canais | Documentários",Animal Planet
-http://a5telecom.tvpn.eu:80/0427/0427/96
+
 #EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1" tvg-logo="https://distv.net/icones/arte1.png" group-title="Canais | Documentários",Arte 1
 http://a5telecom.tvpn.eu:80/0427/0427/97
 #EXTINF:-1 tvg-id="curta!.br" tvg-name="Curta!" tvg-logo="https://distv.net/icones/curta.png" group-title="Canais | Documentários",Curta!
