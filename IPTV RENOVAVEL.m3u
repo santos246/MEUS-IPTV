@@ -140,8 +140,7 @@ http://a5telecom.tvpn.eu:80/0427/0427/113
 http://a5telecom.tvpn.eu:80/0427/0427/115
 #EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic" tvg-logo="https://distv.net/icones/natgeo.png" group-title="Canais | Documentários",National Geographic
 http://a5telecom.tvpn.eu:80/0427/0427/119
-#EXTINF:-1 tvg-id="BISHD" tvg-name="Bis" tvg-logo="https://distv.net/icones/bis.png" group-title="Canais | Entretenimento",Bis
-http://a5telecom.tvpn.eu:80/0427/0427/98
+
 #EXTINF:-1 tvg-id="cheftv.br" tvg-name="Chef TV" tvg-logo="https://distv.net/icones/cheftv.png" group-title="Canais | Entretenimento",Chef TV
 http://a5telecom.tvpn.eu:80/0427/0427/161
 #EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central" tvg-logo="https://distv.net/icones/comedycentral.png" group-title="Canais | Entretenimento",Comedy Central
@@ -166,12 +165,7 @@ http://a5telecom.tvpn.eu:80/0427/0427/143
 http://a5telecom.tvpn.eu:80/0427/0427/262
 #EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV" tvg-logo="https://distv.net/icones/mtv.png" group-title="Canais | Entretenimento",MTV
 http://a5telecom.tvpn.eu:80/0427/0427/116
-#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="MTV Live" tvg-logo="https://distv.net/icones/mtvlive.png" group-title="Canais | Entretenimento",MTV Live
-http://a5telecom.tvpn.eu:80/0427/0427/117
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow" tvg-logo="https://distv.net/icones/multishow.png" group-title="Canais | Entretenimento",Multishow
-http://a5telecom.tvpn.eu:80/0427/0427/118
-#EXTINF:-1 tvg-id="musicbox.br" tvg-name="Music Box" tvg-logo="https://distv.net/icones/musicboxbrasil.png" group-title="Canais | Entretenimento",Music Box
-http://a5telecom.tvpn.eu:80/0427/0427/227
+
 #EXTINF:-1 tvg-id="off.br" tvg-name="OFF" tvg-logo="https://distv.net/icones/off.png" group-title="Canais | Entretenimento",OFF
 http://a5telecom.tvpn.eu:80/0427/0427/121
 #EXTINF:-1 tvg-id="PRMBOXB" tvg-name="Prime Box Brazil" tvg-logo="https://distv.net/icones/primeboxbrazil.png" group-title="Canais | Entretenimento",Prime Box Brazil
@@ -190,8 +184,7 @@ http://a5telecom.tvpn.eu:80/0427/0427/123
 http://a5telecom.tvpn.eu:80/0427/0427/124
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo" tvg-logo="https://distv.net/icones/woohoo.png" group-title="Canais | Entretenimento",Woohoo
 http://a5telecom.tvpn.eu:80/0427/0427/170
-#EXTINF:-1 tvg-id="boavontadetv.br" tvg-name="Boa Vontade TV (Boa Vontade TV)" tvg-logo="https://distv.net/icones/boavontadetv.png" group-title="Canais | Religiosos",Boa Vontade TV (Boa Vontade TV)
-http://a5telecom.tvpn.eu:80/0427/0427/382
+
 #EXTINF:-1 tvg-id="RFAM" tvg-name="Rede Família" tvg-logo="https://distv.net/icones/redefamilia.png" group-title="Canais | Religiosos",Rede Família
 http://a5telecom.tvpn.eu:80/0427/0427/392
 #EXTINF:-1 tvg-id="redegênesis.br" tvg-name="Rede Genesis" tvg-logo="https://distv.net/icones/redegenesis.png" group-title="Canais | Religiosos",Rede Genesis
@@ -200,248 +193,25 @@ http://a5telecom.tvpn.eu:80/0427/0427/393
 http://a5telecom.tvpn.eu:80/0427/0427/394
 #EXTINF:-1 tvg-id="redeséculo21.br" tvg-name="Rede Século 21" tvg-logo="https://distv.net/icones/redeseculo21.png" group-title="Canais | Religiosos",Rede Século 21
 http://a5telecom.tvpn.eu:80/0427/0427/396
-#EXTINF:-1 tvg-id="RV" tvg-name="Rede Vida (Rede Vida)" tvg-logo="https://distv.net/icones/redevida.png" group-title="Canais | Religiosos",Rede Vida (Rede Vida)
-http://a5telecom.tvpn.eu:80/0427/0427/369
-#EXTINF:-1 tvg-id="APAR" tvg-name="TV Aparecida (Rede)" tvg-logo="https://distv.net/icones/tvaparecida.png" group-title="Canais | Religiosos",TV Aparecida (Rede)
-http://a5telecom.tvpn.eu:80/0427/0427/377
-#EXTINF:-1 tvg-id="" tvg-name="TV Cachoeira (TV Novo Tempo)" tvg-logo="https://distv.net/icones/tvcachoeira.png" group-title="Canais | Religiosos",TV Cachoeira (TV Novo Tempo)
-http://a5telecom.tvpn.eu:80/0427/0427/324
-#EXTINF:-1 tvg-id="" tvg-name="TV Verdade (TV Verdade)" tvg-logo="https://distv.net/icones/tvverdade.png" group-title="Canais | Religiosos",TV Verdade (TV Verdade)
-http://a5telecom.tvpn.eu:80/0427/0427/378
-#EXTINF:-1 tvg-id="CANBOI" tvg-name="Canal do Boi" tvg-logo="https://distv.net/icones/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi
-http://a5telecom.tvpn.eu:80/0427/0427/384
-#EXTINF:-1 tvg-id="EDUCATI" tvg-name="Canal Educação (TV Pública)" tvg-logo="https://distv.net/icones/cultura.png" group-title="Canais | Abertos",Canal Educação (TV Pública)
-http://a5telecom.tvpn.eu:80/0427/0427/418
-#EXTINF:-1 tvg-id="" tvg-name="Canal Saúde" tvg-logo="https://distv.net/icones/canalsaude.png" group-title="Canais | Abertos",Canal Saúde
-http://a5telecom.tvpn.eu:80/0427/0427/404
-#EXTINF:-1 tvg-id="CANALM" tvg-name="Canal UM" tvg-logo="https://distv.net/icones/canalum.png" group-title="Canais | Abertos",Canal UM
-http://a5telecom.tvpn.eu:80/0427/0427/413
-#EXTINF:-1 tvg-id="EURONEW" tvg-name="Euronews" tvg-logo="https://distv.net/icones/euronews.png" group-title="Canais | Abertos",Euronews
-http://a5telecom.tvpn.eu:80/0427/0427/388
-#EXTINF:-1 tvg-id="idealtv.br" tvg-name="Ideal TV (TV Mundial)" tvg-logo="https://distv.net/icones/ideal.png" group-title="Canais | Abertos",Ideal TV (TV Mundial)
-http://a5telecom.tvpn.eu:80/0427/0427/314
-#EXTINF:-1 tvg-id="PLSHOP" tvg-name="Polishop TV" tvg-logo="https://distv.net/icones/polishop.png" group-title="Canais | Abertos",Polishop TV
-http://a5telecom.tvpn.eu:80/0427/0427/306
-#EXTINF:-1 tvg-id="cnt.br" tvg-name="Rede CNT" tvg-logo="https://distv.net/icones/redecnt.png" group-title="Canais | Abertos",Rede CNT
-http://a5telecom.tvpn.eu:80/0427/0427/459
-#EXTINF:-1 tvg-id="RSUPER" tvg-name="Rede Super" tvg-logo="https://distv.net/icones/redesuper.png" group-title="Canais | Abertos",Rede Super
-http://a5telecom.tvpn.eu:80/0427/0427/397
-#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV (Rede)" tvg-logo="https://distv.net/icones/rittv.png" group-title="Canais | Abertos",RIT TV (Rede)
-http://a5telecom.tvpn.eu:80/0427/0427/280
-#EXTINF:-1 tvg-id="ARGO" tvg-name="TV Agro Canal" tvg-logo="https://distv.net/icones/agrocanal.png" group-title="Canais | Abertos",TV Agro Canal
-http://a5telecom.tvpn.eu:80/0427/0427/380
-#EXTINF:-1 tvg-id="RURALA" tvg-name="TV Assembleia Legislativa (TVAL)" tvg-logo="https://distv.net/icones/tval.png" group-title="Canais | Abertos",TV Assembleia Legislativa (TVAL)
-http://a5telecom.tvpn.eu:80/0427/0427/386
-#EXTINF:-1 tvg-id="TVEB2" tvg-name="TV Brasil (02)" tvg-logo="https://distv.net/icones/tvbrasil.png" group-title="Canais | Abertos",TV Brasil (02)
-http://a5telecom.tvpn.eu:80/0427/0427/399
-#EXTINF:-1 tvg-id="cançãonova.br" tvg-name="TV Canção Nova (Rede)" tvg-logo="https://distv.net/icones/cancaonova.png" group-title="Canais | Abertos",TV Canção Nova (Rede)
-http://a5telecom.tvpn.eu:80/0427/0427/293
-#EXTINF:-1 tvg-id="CULTURA" tvg-name="TV Cultura" tvg-logo="https://distv.net/icones/cultura.png" group-title="Canais | Abertos",TV Cultura
-http://a5telecom.tvpn.eu:80/0427/0427/289
-#EXTINF:-1 tvg-id="tvcâmara.br" tvg-name="TV Câmara (TV Câmara)" tvg-logo="https://distv.net/icones/tvcamera.png" group-title="Canais | Abertos",TV Câmara (TV Câmara)
-http://a5telecom.tvpn.eu:80/0427/0427/320
-#EXTINF:-1 tvg-id="TVEVCBA" tvg-name="TV Evangelizar" tvg-logo="https://distv.net/icones/tvevangelizar.png" group-title="Canais | Abertos",TV Evangelizar
-http://a5telecom.tvpn.eu:80/0427/0427/304
-#EXTINF:-1 tvg-id="FUTRA" tvg-name="TV Futura" tvg-logo="https://distv.net/icones/futura.png" group-title="Canais | Abertos",TV Futura
-http://a5telecom.tvpn.eu:80/0427/0427/294
-#EXTINF:-1 tvg-id="" tvg-name="TV Pernambuco (TV Cultura/TV Brasil)" tvg-logo="https://distv.net/icones/tvpe.png" group-title="Canais | Abertos",TV Pernambuco (TV Cultura/TV Brasil)
-http://a5telecom.tvpn.eu:80/0427/0427/276
-#EXTINF:-1 tvg-id="SHPT" tvg-name="TV Shoptime" tvg-logo="https://distv.net/icones/shoptime.png" group-title="Canais | Abertos",TV Shoptime
-http://a5telecom.tvpn.eu:80/0427/0427/308
-#EXTINF:-1 tvg-id="terraviva.br" tvg-name="TV Terraviva" tvg-logo="https://distv.net/icones/terraviva.png" group-title="Canais | Abertos",TV Terraviva
-http://a5telecom.tvpn.eu:80/0427/0427/298
-#EXTINF:-1 tvg-id="" tvg-name="TV UP (Futura)" tvg-logo="https://distv.net/icones/tvup.png" group-title="Canais | Abertos",TV UP (Futura)
-http://a5telecom.tvpn.eu:80/0427/0427/376
-#EXTINF:-1 tvg-id="univesptv.br" tvg-name="Univesp TV" tvg-logo="https://distv.net/icones/univesp.png" group-title="Canais | Abertos",Univesp TV
-http://a5telecom.tvpn.eu:80/0427/0427/415
-#EXTINF:-1 tvg-id="nsctvflorianópolis.br" tvg-name="Globo (Florianopolis)" tvg-logo="https://distv.net/icones/globotvnscflorianopolis.png" group-title="Canais | Globo",Globo (Florianopolis)
-http://a5telecom.tvpn.eu:80/0427/0427/428
-#EXTINF:-1 tvg-id="intertvcabugi.br" tvg-name="InterTV Cabugi (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",InterTV Cabugi (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/291
-#EXTINF:-1 tvg-id="intertvcabugi.br" tvg-name="InterTV Cabugi (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Natal",InterTV Cabugi (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/291
-#EXTINF:-1 tvg-id="ZYA728" tvg-name="InterTV Grande Minas (Globo)" tvg-logo="https://distv.net/icones/intertvgrandeminas.png" group-title="Canais | Globo",InterTV Grande Minas (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/407
-#EXTINF:-1 tvg-id="rbstvriogrande.br" tvg-name="RBS TV RS (Globo)" tvg-logo="https://distv.net/icones/globorbs.png" group-title="Canais | Globo",RBS TV RS (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/432
-#EXTINF:-1 tvg-id="redeamazônicamanaus.br" tvg-name="Rede Amazonica (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",Rede Amazonica (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/433
-#EXTINF:-1 tvg-id="globoanhanguera.br" tvg-name="Rede Anhanguera (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",Rede Anhanguera (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/436
-#EXTINF:-1 tvg-id="globoanhanguera.br" tvg-name="Rede Anhanguera (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Palmas",Rede Anhanguera (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/436
-#EXTINF:-1 tvg-id="GLRPCHD" tvg-name="RPC Curitiba (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",RPC Curitiba (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/434
-#EXTINF:-1 tvg-id="GLRPCHD" tvg-name="RPC Curitiba (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Parana",RPC Curitiba (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/434
-#EXTINF:-1 tvg-id="rpcmaringá.br" tvg-name="RPC Maringá (Globo)" tvg-logo="https://distv.net/icones/rpcglobo.png" group-title="Canais | Globo",RPC Maringá (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/372
-#EXTINF:-1 tvg-id="rpcmaringá.br" tvg-name="RPC Maringá (Globo)" tvg-logo="https://distv.net/icones/rpcglobo.png" group-title="Canais | Parana",RPC Maringá (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/372
-#EXTINF:-1 tvg-id="ZYB305" tvg-name="TV Asa Branca (Globo)" tvg-logo="https://distv.net/icones/tvasabranca.png" group-title="Canais | Globo",TV Asa Branca (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/423
-#EXTINF:-1 tvg-id="ZYB305" tvg-name="TV Asa Branca (Globo)" tvg-logo="https://distv.net/icones/tvasabranca.png" group-title="Canais | Pernambuco",TV Asa Branca (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/423
-#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="TV Bahia (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",TV Bahia (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/437
-#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="TV Bahia (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Bahia",TV Bahia (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/437
-#EXTINF:-1 tvg-id="tvcabobranco.br" tvg-name="TV Cabo Branco (Globo)" tvg-logo="https://distv.net/icones/tvcabobranco.png" group-title="Canais | Globo",TV Cabo Branco (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/319
-#EXTINF:-1 tvg-id="tvcabobranco.br" tvg-name="TV Cabo Branco (Globo)" tvg-logo="https://distv.net/icones/tvcabobranco.png" group-title="Canais | Paraiba",TV Cabo Branco (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/319
-#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV Gazeta (Globo)" tvg-logo="https://distv.net/icones/gazeta.png" group-title="Canais | Globo",TV Gazeta (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/424
-#EXTINF:-1 tvg-id="GAZETAH" tvg-name="TV Gazeta Vitória (Globo)" tvg-logo="https://distv.net/icones/gazeta.png" group-title="Canais | Globo",TV Gazeta Vitória (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/425
-#EXTINF:-1 tvg-id="GLBBRHD" tvg-name="TV Globo (Brasília)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",TV Globo (Brasília)
-http://a5telecom.tvpn.eu:80/0427/0427/427
-#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="TV Globo (Minas)" tvg-logo="https://distv.net/icones/globominas.png" group-title="Canais | Globo",TV Globo (Minas)
-http://a5telecom.tvpn.eu:80/0427/0427/429
-#EXTINF:-1 tvg-id="GLBRJ" tvg-name="TV Globo (Rio de Janeiro)" tvg-logo="https://distv.net/icones/globorj.png" group-title="Canais | Globo",TV Globo (Rio de Janeiro)
-http://a5telecom.tvpn.eu:80/0427/0427/431
-#EXTINF:-1 tvg-id="globonatal.br" tvg-name="TV Globo (Rio Grande do Norte)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",TV Globo (Rio Grande do Norte)
-http://a5telecom.tvpn.eu:80/0427/0427/430
-#EXTINF:-1 tvg-id="globonatal.br" tvg-name="TV Globo (Rio Grande do Norte)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Natal",TV Globo (Rio Grande do Norte)
-http://a5telecom.tvpn.eu:80/0427/0427/430
-#EXTINF:-1 tvg-id="globosãopaulo.br" tvg-name="TV Globo (São Paulo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",TV Globo (São Paulo)
-http://a5telecom.tvpn.eu:80/0427/0427/435
-#EXTINF:-1 tvg-id="globobelémliberal.br" tvg-name="TV Liberal Belém (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",TV Liberal Belém (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/438
-#EXTINF:-1 tvg-id="tvmirantesãoluis.br" tvg-name="TV Mirante São Luís (Globo)" tvg-logo="https://distv.net/icones/globotvmirante.png" group-title="Canais | Globo",TV Mirante São Luís (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/439
-#EXTINF:-1 tvg-id="ZYA942H" tvg-name="TV Morena (Globo)" tvg-logo="https://distv.net/icones/tvmorena.png" group-title="Canais | Globo",TV Morena (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/426
-#EXTINF:-1 tvg-id="ZYA302" tvg-name="TV Santa Cruz (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",TV Santa Cruz (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/409
-#EXTINF:-1 tvg-id="ZYA302" tvg-name="TV Santa Cruz (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Bahia",TV Santa Cruz (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/409
-#EXTINF:-1 tvg-id="SUBAEHD" tvg-name="TV Subaé (Globo)" tvg-logo="https://distv.net/icones/tvsubae.png" group-title="Canais | Globo",TV Subaé (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/410
-#EXTINF:-1 tvg-id="SUBAEHD" tvg-name="TV Subaé (Globo)" tvg-logo="https://distv.net/icones/tvsubae.png" group-title="Canais | Bahia",TV Subaé (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/410
-#EXTINF:-1 tvg-id="SUDOEHD" tvg-name="TV Sudoeste (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",TV Sudoeste (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/411
-#EXTINF:-1 tvg-id="SUDOEHD" tvg-name="TV Sudoeste (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Bahia",TV Sudoeste (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/411
-#EXTINF:-1 tvg-id="tvverdesmares.br" tvg-name="TV Verdes Mares (Globo)" tvg-logo="https://distv.net/icones/globotvverdesmares.png" group-title="Canais | Globo",TV Verdes Mares (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/440
-#EXTINF:-1 tvg-id="tvverdesmares.br" tvg-name="TV Verdes Mares (Globo)" tvg-logo="https://distv.net/icones/globotvverdesmares.png" group-title="Canais | Ceara",TV Verdes Mares (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/440
-#EXTINF:-1 tvg-id="sbtsãopaulo.br" tvg-name="SBT (São Paulo)" tvg-logo="https://distv.net/icones/sbt.png" group-title="Canais | SBT",SBT (São Paulo)
-http://a5telecom.tvpn.eu:80/0427/0427/457
-#EXTINF:-1 tvg-id="sbttocantins.br" tvg-name="SBT (Palmas)" tvg-logo="https://distv.net/icones/sbt.png" group-title="Canais | SBT",SBT (Palmas)
-http://a5telecom.tvpn.eu:80/0427/0427/461
-#EXTINF:-1 tvg-id="sbttocantins.br" tvg-name="SBT (Palmas)" tvg-logo="https://distv.net/icones/sbt.png" group-title="Canais | Palmas",SBT (Palmas)
-http://a5telecom.tvpn.eu:80/0427/0427/461
-#EXTINF:-1 tvg-id="SBT" tvg-name="TV Aratu (SBT)" tvg-logo="https://distv.net/icones/sbt.png" group-title="Canais | SBT",TV Aratu (SBT)
-http://a5telecom.tvpn.eu:80/0427/0427/334
-#EXTINF:-1 tvg-id="SBT" tvg-name="TV Aratu (SBT)" tvg-logo="https://distv.net/icones/sbt.png" group-title="Canais | Bahia",TV Aratu (SBT)
-http://a5telecom.tvpn.eu:80/0427/0427/334
-#EXTINF:-1 tvg-id="SBTFORT" tvg-name="TV Jangadeiro (SBT)" tvg-logo="https://distv.net/icones/sbt.png" group-title="Canais | SBT",TV Jangadeiro (SBT)
-http://a5telecom.tvpn.eu:80/0427/0427/354
-#EXTINF:-1 tvg-id="SBTFORT" tvg-name="TV Jangadeiro (SBT)" tvg-logo="https://distv.net/icones/sbt.png" group-title="Canais | Ceara",TV Jangadeiro (SBT)
-http://a5telecom.tvpn.eu:80/0427/0427/354
-#EXTINF:-1 tvg-id="tvpontanegra.br" tvg-name="TV Ponta Negra (SBT)" tvg-logo="https://distv.net/icones/sbt.png" group-title="Canais | SBT",TV Ponta Negra (SBT)
-http://a5telecom.tvpn.eu:80/0427/0427/311
-#EXTINF:-1 tvg-id="tvpontanegra.br" tvg-name="TV Ponta Negra (SBT)" tvg-logo="https://distv.net/icones/sbt.png" group-title="Canais | Natal",TV Ponta Negra (SBT)
-http://a5telecom.tvpn.eu:80/0427/0427/311
-#EXTINF:-1 tvg-id="tvtambaú.br" tvg-name="TV Tambaú (SBT)" tvg-logo="https://distv.net/icones/tvtambau.png" group-title="Canais | SBT",TV Tambaú (SBT)
-http://a5telecom.tvpn.eu:80/0427/0427/326
-#EXTINF:-1 tvg-id="tvtambaú.br" tvg-name="TV Tambaú (SBT)" tvg-logo="https://distv.net/icones/tvtambau.png" group-title="Canais | Paraiba",TV Tambaú (SBT)
-http://a5telecom.tvpn.eu:80/0427/0427/326
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record TV" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",Record TV
-http://a5telecom.tvpn.eu:80/0427/0427/309
-#EXTINF:-1 tvg-id="recordtvitapoan.br" tvg-name="Record TV Itapoan (Record TV)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",Record TV Itapoan (Record TV)
-http://a5telecom.tvpn.eu:80/0427/0427/335
-#EXTINF:-1 tvg-id="recordtvitapoan.br" tvg-name="Record TV Itapoan (Record TV)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | Bahia",Record TV Itapoan (Record TV)
-http://a5telecom.tvpn.eu:80/0427/0427/335
-#EXTINF:-1 tvg-id="recordtvbahia.br" tvg-name="RecordTV (Bahia)" tvg-logo="https://distv.net/icones/recordbahia.png" group-title="Canais | RecordTV",RecordTV (Bahia)
-http://a5telecom.tvpn.eu:80/0427/0427/442
-#EXTINF:-1 tvg-id="recordtvbelém.br" tvg-name="RecordTV (Belém)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",RecordTV (Belém)
-http://a5telecom.tvpn.eu:80/0427/0427/443
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RecordTV (Brasília)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",RecordTV (Brasília)
-http://a5telecom.tvpn.eu:80/0427/0427/444
-#EXTINF:-1 tvg-id="recordtvgoiás.br" tvg-name="RecordTV (Goiás)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",RecordTV (Goiás)
-http://a5telecom.tvpn.eu:80/0427/0427/445
-#EXTINF:-1 tvg-id="" tvg-name="RecordTV (Manaus)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",RecordTV (Manaus)
-http://a5telecom.tvpn.eu:80/0427/0427/446
-#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="RecordTV (Minas)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",RecordTV (Minas)
-http://a5telecom.tvpn.eu:80/0427/0427/447
-#EXTINF:-1 tvg-id="recordtvrio.br" tvg-name="RecordTV (Rio de Janeiro)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",RecordTV (Rio de Janeiro)
-http://a5telecom.tvpn.eu:80/0427/0427/449
-#EXTINF:-1 tvg-id="recordtvrs.br" tvg-name="RecordTV (Rio Grande do Sul)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",RecordTV (Rio Grande do Sul)
-http://a5telecom.tvpn.eu:80/0427/0427/450
-#EXTINF:-1 tvg-id="recordtvsãopaulo.br" tvg-name="RecordTV (São Paulo)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",RecordTV (São Paulo)
-http://a5telecom.tvpn.eu:80/0427/0427/451
-#EXTINF:-1 tvg-id="recordtvtocantins.br" tvg-name="RecordTV (Palmas)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",RecordTV (Palmas)
-http://a5telecom.tvpn.eu:80/0427/0427/463
-#EXTINF:-1 tvg-id="recordtvtocantins.br" tvg-name="RecordTV (Palmas)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | Palmas",RecordTV (Palmas)
-http://a5telecom.tvpn.eu:80/0427/0427/463
-#EXTINF:-1 tvg-id="ZYB405" tvg-name="RIC TV Maringá (Record TV)" tvg-logo="https://distv.net/icones/rictv.png" group-title="Canais | RecordTV",RIC TV Maringá (Record TV)
-http://a5telecom.tvpn.eu:80/0427/0427/370
-#EXTINF:-1 tvg-id="ZYB405" tvg-name="RIC TV Maringá (Record TV)" tvg-logo="https://distv.net/icones/rictv.png" group-title="Canais | Parana",RIC TV Maringá (Record TV)
-http://a5telecom.tvpn.eu:80/0427/0427/370
-#EXTINF:-1 tvg-id="ZYA427" tvg-name="TV Cidade (Record TV)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",TV Cidade (Record TV)
-http://a5telecom.tvpn.eu:80/0427/0427/351
-#EXTINF:-1 tvg-id="ZYA427" tvg-name="TV Cidade (Record TV)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | Ceara",TV Cidade (Record TV)
-http://a5telecom.tvpn.eu:80/0427/0427/351
-#EXTINF:-1 tvg-id="tvcorreio.br" tvg-name="TV Correio (Record TV)" tvg-logo="https://distv.net/icones/tvcorreio.png" group-title="Canais | RecordTV",TV Correio (Record TV)
-http://a5telecom.tvpn.eu:80/0427/0427/321
-#EXTINF:-1 tvg-id="tvcorreio.br" tvg-name="TV Correio (Record TV)" tvg-logo="https://distv.net/icones/tvcorreio.png" group-title="Canais | Paraiba",TV Correio (Record TV)
-http://a5telecom.tvpn.eu:80/0427/0427/321
-#EXTINF:-1 tvg-id="tvtropical.br" tvg-name="TV Tropical (Record TV)" tvg-logo="https://distv.net/icones/tvtropical.png" group-title="Canais | RecordTV",TV Tropical (Record TV)
-http://a5telecom.tvpn.eu:80/0427/0427/302
-#EXTINF:-1 tvg-id="tvtropical.br" tvg-name="TV Tropical (Record TV)" tvg-logo="https://distv.net/icones/tvtropical.png" group-title="Canais | Natal",TV Tropical (Record TV)
-http://a5telecom.tvpn.eu:80/0427/0427/302
-#EXTINF:-1 tvg-id="" tvg-name="Band Ceará (Band)" tvg-logo="https://distv.net/icones/band.png" group-title="Canais | Band",Band Ceará (Band)
-http://a5telecom.tvpn.eu:80/0427/0427/350
-#EXTINF:-1 tvg-id="" tvg-name="Band Ceará (Band)" tvg-logo="https://distv.net/icones/band.png" group-title="Canais | Ceara",Band Ceará (Band)
-http://a5telecom.tvpn.eu:80/0427/0427/350
-#EXTINF:-1 tvg-id="bandnatal.br" tvg-name="Band RN (Band)" tvg-logo="https://distv.net/icones/band.png" group-title="Canais | Band",Band RN (Band)
-http://a5telecom.tvpn.eu:80/0427/0427/292
-#EXTINF:-1 tvg-id="bandnatal.br" tvg-name="Band RN (Band)" tvg-logo="https://distv.net/icones/band.png" group-title="Canais | Natal",Band RN (Band)
-http://a5telecom.tvpn.eu:80/0427/0427/292
-#EXTINF:-1 tvg-id="BANDTO" tvg-name="Band (Palmas)" tvg-logo="https://distv.net/icones/band.png" group-title="Canais | Band",Band (Palmas)
-http://a5telecom.tvpn.eu:80/0427/0427/462
-#EXTINF:-1 tvg-id="BANDTO" tvg-name="Band (Palmas)" tvg-logo="https://distv.net/icones/band.png" group-title="Canais | Palmas",Band (Palmas)
-http://a5telecom.tvpn.eu:80/0427/0427/462
-#EXTINF:-1 tvg-id="bandsãopaulo.br" tvg-name="TV Band (São Paulo)" tvg-logo="https://distv.net/icones/band.png" group-title="Canais | Band",TV Band (São Paulo)
-http://a5telecom.tvpn.eu:80/0427/0427/452
-#EXTINF:-1 tvg-id="tvmanaira.br" tvg-name="TV Manaíra (Band)" tvg-logo="https://distv.net/icones/tvmanairaband.png" group-title="Canais | Band",TV Manaíra (Band)
-http://a5telecom.tvpn.eu:80/0427/0427/322
-#EXTINF:-1 tvg-id="tvmanaira.br" tvg-name="TV Manaíra (Band)" tvg-logo="https://distv.net/icones/tvmanairaband.png" group-title="Canais | Paraiba",TV Manaíra (Band)
-http://a5telecom.tvpn.eu:80/0427/0427/322
-#EXTINF:-1 tvg-id="ZYB397" tvg-name="TV Tarobá Cascavel (Band)" tvg-logo="https://distv.net/icones/tvtaroba.png" group-title="Canais | Band",TV Tarobá Cascavel (Band)
-http://a5telecom.tvpn.eu:80/0427/0427/373
-#EXTINF:-1 tvg-id="ZYB397" tvg-name="TV Tarobá Cascavel (Band)" tvg-logo="https://distv.net/icones/tvtaroba.png" group-title="Canais | Parana",TV Tarobá Cascavel (Band)
-http://a5telecom.tvpn.eu:80/0427/0427/373
-#EXTINF:-1 tvg-id="" tvg-name="TV Café com Leitte" tvg-logo="https://distv.net/icones/tvcafecomleite.png" group-title="Canais | Ceara",TV Café com Leitte
-http://a5telecom.tvpn.eu:80/0427/0427/353
-#EXTINF:-1 tvg-id="tvceará.br" tvg-name="TV Ceará" tvg-logo="https://distv.net/icones/tvceara.png" group-title="Canais | Ceara",TV Ceará
-http://a5telecom.tvpn.eu:80/0427/0427/358
-#EXTINF:-1 tvg-id="tvdiário.br" tvg-name="TV Diário (TV Diário)" tvg-logo="https://distv.net/icones/tvdiario.png" group-title="Canais | Ceara",TV Diário (TV Diário)
-http://a5telecom.tvpn.eu:80/0427/0427/352
-#EXTINF:-1 tvg-id="TVVALE" tvg-name="TV Verde Vale" tvg-logo="https://distv.net/icones/tvverdevale.png" group-title="Canais | Ceara",TV Verde Vale
-http://a5telecom.tvpn.eu:80/0427/0427/356
-#EXTINF:-1 tvg-id="" tvg-name="TV Caiuá (RedeTV! Mais)" tvg-logo="https://distv.net/icones/tvcaiua.png" group-title="Canais | Parana",TV Caiuá (RedeTV! Mais)
-http://a5telecom.tvpn.eu:80/0427/0427/375
-#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="TV Globo Nordeste (Globo)" tvg-logo="https://distv.net/icones/globonordeste.png" group-title="Canais | Globo",TV Globo Nordeste (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/272
-#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="TV Globo Nordeste (Globo)" tvg-logo="https://distv.net/icones/globonordeste.png" group-title="Canais | Pernambuco",TV Globo Nordeste (Globo)
-http://a5telecom.tvpn.eu:80/0427/0427/272
-#EXTINF:-1 tvg-id="" tvg-name="TV Guararapes (RecordTV)" tvg-logo="https://distv.net/icones/tvguararapes.png" group-title="Canais | Pernambuco",TV Guararapes (RecordTV)
-http://a5telecom.tvpn.eu:80/0427/0427/278
-#EXTINF:-1 tvg-id="tvjornal.br" tvg-name="TV Jornal (SBT Nordeste)" tvg-logo="https://distv.net/icones/tvjornal.png" group-title="Canais | Pernambuco",TV Jornal (SBT Nordeste)
-http://a5telecom.tvpn.eu:80/0427/0427/266
-#EXTINF:-1 tvg-id="" tvg-name="TV Nova (TV Cultura)" tvg-logo="https://distv.net/icones/tvnova.png" group-title="Canais | Pernambuco",TV Nova (TV Cultura)
-http://a5telecom.tvpn.eu:80/0427/0427/271
-#EXTINF:-1 tvg-id="GLBTRIB" tvg-name="TV Tribuna (Bandeirantes)" tvg-logo="https://distv.net/icones/tvtribuna.png" group-title="Canais | Pernambuco",TV Tribuna (Bandeirantes)
-http://a5telecom.tvpn.eu:80/0427/0427/267
-#EXTINF:-1 tvg-id="tvarapuan.br" tvg-name="TV Arapuan (Rede TV!)" tvg-logo="https://distv.net/icones/tvarapuan.png" group-title="Canais | Paraiba",TV Arapuan (Rede TV!)
-http://a5telecom.tvpn.eu:80/0427/0427/318
-#EXTINF:-1 tvg-id="" tvg-name="TV Miramar (TV Cultura)" tvg-logo="https://distv.net/icones/tvmiramar.png" group-title="Canais | Paraiba",TV Miramar (TV Cultura)
-http://a5telecom.tvpn.eu:80/0427/0427/323
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas" tvg-logo="https://distv.net/icones/brasileirinhas.png" group-title="XXX | Adultos",Brasileirinhas
 http://a5telecom.tvpn.eu:80/0427/0427/2
 #EXTINF:-1 tvg-id="sexyhot.br" tvg-name="Sex Hot" tvg-logo="https://distv.net/icones/canaladulto.png" group-title="XXX | Adultos",Sex Hot
