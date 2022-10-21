@@ -2,72 +2,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAIS", TV
-http://a5telecom.tvpn.eu:80/0427/0427/20
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAIS", TV
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAIS", TV
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAIS", TV
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAIS", TV
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAIS", TV
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAIS", TV
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAIS", TV
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAIS", TV
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAIS", TV
-LINK
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAIS", TV
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAIS", TV
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAIS", TV
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAIS", TV
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAIS", TV
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAIS", TV
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAIS", TV
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAIS", TV
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAIS", TV
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="CANAIS", TV
-LINK
-
-
 
 
 
@@ -75,7 +9,7 @@ LINK
 
 
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (01)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (01)
-
+http://a5telecom.tvpn.eu:80/0427/0427/20
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (02)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (02)
 http://a5telecom.tvpn.eu:80/0427/0427/21
 #EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (03)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (03)
