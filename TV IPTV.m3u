@@ -275,79 +275,357 @@ https://video01.kshost.com.br:4443/lourdes52007/lourdes52007/chunklist_w16049571
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyME1yFqPxEe3k1OTZdfcen6HgRDah88bZkgbpe9XFhf3tfjmm2LQXdwd4YxCfkxAByGm2iw9LPXQkayEjhU8miHu7W1zIIA1gKj250JwBbkHUEBRjKysjiObEZHn0RuAWd3f4XFGBziWSp_B2UAXKQJQlzoIeehImXM7FFoKNGNRFdovIL0hQGzOY/s200/ARCERTE%20TV.webp" group-title="TV FILMES", ARCERTE TV
 https://srv1.zcast.com.br/arcertetv/arcertetv/chunklist_w1476722741.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUCMfFOCWmkYB3u4ipTxgbRu62vP01uv5OwWkXeglnPzcV4w0liHZcWfvxXWeoWvljJSxodHY_4FJqXVlpLU97hr-my-uXxlXPKAc6r8NChhftFnyBEsDNv7Dw33_6QvcFLG35bBruqQWOZMrjtxPdqckKKrGmDMOzKOYoe9_MED3SMcVcAeTsWoFQ/s200/O%C3%81SIS%20TV.webp" group-title="TV FILMES", OÁSIS TV
+https://stmv5.samcast.com.br/oasistv/oasistv/chunklist_w1183640692.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JsTEwsw1-FQ/YM9qe1_J1iI/AAAAAAAAE48/nAOnbSjZHhgQ9-Hoyc0b4smdZtChLFJCwCLcBGAsYHQ/s0/CLASSIQUE%2BTV.png" group-title="TV FILMES", CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vOD4b2bfrZE/X0p84SyENMI/AAAAAAAADM8/iSTYUCpEN_Q3evEu0rNEdLmnbkPz1rMzACLcBGAsYHQ/s320/Screenshot_2020-08-29-13-02-39.png" group-title="TV FILMES", TV RIO MADEIRA
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/chunklist_w951100792.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4YhZ8LozzVI/X5C1dZCh6vI/AAAAAAAADe4/Z_ylY4Wq-181AqnY-WRRgv6eCfM59S0vgCLcBGAsYHQ/s0/ENTORNO%2BSUL%2BWEB%2BTV.png" group-title="TV FILMES", ENTORNO SUL WEB TV
+https://video01.kshost.com.br:4443/manoel2072/manoel2072/chunklist_w1732984734.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH-GsBsMcReostiWiUAAQxupDipNwb_yhNu50cRKJmtkkVr3oLN1XBxANM9ZMk-taTSeAFppeOfgQhj5l0n8uVkPdAZmGKoLj7KbAqCL71rc7cFMoT65m8dJ_c_dcn2PvJrwS7mVcJia8HikNJx9WAh44C4wUmgqWeJ8ZTUUr_2lw_rfZv71b-dAiq/s200/TV%20LAGO%20AZUL.webp" group-title="TV FILMES", TV LAGO AZUL
+https://video01.logicahost.com.br/tvlagoazul/tvlagoazul/chunklist_w1164201422.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnDvuFItSeOIqO9Jox0ggXqRG3kNpRvk8R5uH_XpCTYFCw5IqtO4MpekFGvvgaXSaaFhMCI3yfZYAk1HU75rv8znLrCi0-2BazASm-A2_4IPaBXhYg3-YWHQgomotGZ-moXcaNFKVuOvGSh9vc3EU4ekLvIF5J56Sa5gkKWPtVeFYgxASlx4H4Ybuv/s200/ASCAME%20TV.webp" group-title="TV FILMES", ASCAME TV
+https://livefocamundo.com:8081/ascametv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhRVak-9ez9jspuOPveFXudo_1lcK3EICxa0qx4Qirc929d1wiY9U1kipB-wgYNJ1MSoOJ8nZX85JRMmeNqIKP-ujqMWZEiX4sPkg3xJRnJH3oWzHKwvXQlL2FU1Id4abd_dImJX7BggE0_ATmi-3FuktltKAspDg_20wUcEB_Er3Ut2G4HwOSLpmcu=s200" group-title="TV FILMES", RUNTIME AÇÃO 
+https://stream.ads.ottera.tv/cl/2ccef699-e15e-4cb9-9a1a-7e5c633d6880/854x480_1355200_2_f.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HeOx0ppyn9I/YUS-ANLm0CI/AAAAAAAAFlI/BS8FHrbVlHIlJuQGBxbuTZqQX1qYBaWZQCLcBGAsYHQ/s200/WEB%2BTV%2BCAICO.webp" group-title="TV FILMES", WEB TV CAICO
+https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/chunklist_w1930887590.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-DQFH5p2kuMjUCqAHjOtXufG-FyBGd2fl3i3IWawoiyqyBuNiMUf-6Mgr-kq2baxvRyrx9vux5a2GW0r_PjAS3KrZBcIgSdeWk2gJ8M4xvJbnxQdnK8peywr_p7FttlIVCUMBLEmvXurA2Z-kxUL074cluFEmE60CioEx9OmfnlErveSYP5jPSDKn/s200/TV%20CHICO%20JO%C3%83O.webp" group-title="TV FILMES", TV CHICO JOÃO
+https://stmv.webtv.ninjascast.com.br/tvwebstudio1/tvwebstudio1/chunklist_w312236147.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgJpH8AiMmEcV4lSNPzMG5H8fqVfKqTwraakyjCb8NCR3ozNnTIaPpkK3jdEOW7ocXSqpNioCcHoCzny4rtLLDGjRkTMzoNcf4Irv231TfQ7mbY1jOcAKEe3EM3gynumZFEUQC0SjZHqoZsjMqwA_kRr8AmGpj6mADEckPZ8bkLBhGGL_DoYRpIzw5B=s200" group-title="TV FILMES", QTAL? CHANNEL
+https://video01.logicahost.com.br/qtalchannel/qtalchannel/chunklist_w1118629964.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiNaEQDUbrb2AdVhii0lOHFwSipO7dp4Q8htqwffil2BtvrAICRoOElIRTJOyr909UwmnDIr_ZspucmKyRDtTbuQLvZdbYI0bwJDg9gYWQcpJcvra7gH27Xqnro1PnGtC456-pe_q-BAUburFsG3gAxgDQ2YTj0uICjLTovyNVssNon5vQ6wRS5Itqo=s200" group-title="TV FILMES", TV CNB ORLANDO 
+https://livefocamundo.com:8081/tvcnb/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhRVak-9ez9jspuOPveFXudo_1lcK3EICxa0qx4Qirc929d1wiY9U1kipB-wgYNJ1MSoOJ8nZX85JRMmeNqIKP-ujqMWZEiX4sPkg3xJRnJH3oWzHKwvXQlL2FU1Id4abd_dImJX7BggE0_ATmi-3FuktltKAspDg_20wUcEB_Er3Ut2G4HwOSLpmcu=s200" group-title="TV FILMES", RUNTIME COMÉDIA
+https://stream.ads.ottera.tv/cl/0ddf4a6a-2722-41b8-b590-30e3d5ff51b5/854x480_1355200_2_f.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkl4COXPWiYSScgK_qnSRhZnqJWA5LRhmUu4OKLik41uOzBj-aFHcCAkOileDbgVdr4iUfFZ68CjTEW2UdO0DvsBHgtas-P6FOZo6kvKtxrbpwa9C5Y6USjG39qyvQkVI8hbDQvEJtDedyxNlVSlYt5DJIMA468xi4K1GOPtrKz87f2qXW2OQvGcHs/s200/TV%20GOSPEL%20LOUVORES.webp" group-title="TV FILMES", TV GOSPEL LOUVORES 
+https://stmv1.srvif.com/sidnei3429/sidnei3429/chunklist_w813072880.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BTHi9LZxpgg/X2vM784WIBI/AAAAAAAADUw/F98CPPNMKtgb3VYKNDr4wykT7td7sN6RACLcBGAsYHQ/s0/CINE%2BKURIAKOS.pn" group-title="TV FILMES", KURIAKOS CINE
+https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w148989267_b30048000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEimgM2af_ZbvcYccZx49omoPzxioOdh8h1EVO5BmG6xkHkST7oY7q8YRRJ3ryVAHcqQ3_-F8Qk8dEBaXDG1XZRwnhNbrO9LTvTHsAXc-dxhfWDsObuGQ41EZDyr-S5TRE42WdKVOJoWVFhZLz6RTSHTM1uRl7QZne1kJJmuVHq9jRyofo9DmAs20FFR=s200" group-title="TV FILMES", MULTITVA
+https://livefocamundo.com:8081/multitva/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhhIxrgRJF1NWUZOuqtqaVYRppcGYRVqVHLdeyy4hspS5_Ft9CLrrhz0ZHSmfQ3C0CB_uePSqUKDQe81c2NTEoC0NJgvCi_JsRggSzFe6odkzssKGYN0Y57zqqJgZuO8mblo3F-YD5Oj6DjBMpEba53WeUfla7wMaui9_GYuS7YkqFNOn-EMsz1Iy2/s200/IPANGUA%C3%87U%20TV.webp" group-title="TV FILMES", IPANGUAÇU TV 
+https://stmv3.voxtvhd.com.br/ipanguacutv/ipanguacutv/chunklist_w997746270.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JsTEwsw1-FQ/YM9qe1_J1iI/AAAAAAAAE48/nAOnbSjZHhgQ9-Hoyc0b4smdZtChLFJCwCLcBGAsYHQ/s0/CLASSIQUE%2BTV.png" group-title="TV FILMES", CLASSIQUE TV 2 
+https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w227761684.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+###############################DESENHOS#############################################################################################################
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mX6edT97A7s/YTDxlBOjjhI/AAAAAAAAFQU/Fb7NZzr0cboYPp7PUPXJd3wkbVrofkszQCLcBGAsYHQ/s200/REDE%2BBRASIL.webp" group-title="TV DESENHOS", REDE BRASIL
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-v9zgXkCcNkQ/YTD0fM6SXxI/AAAAAAAAFQ8/rSevQRNjY9sdRokgejHWkiH7_oae4dsbwCLcBGAsYHQ/s200/TV%2BCULTURA.webp" group-title="TV DESENHOS", TV CULTURA PR (Catve) 
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+
+
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
 LINK🔴
 
 
 
 
 
+####################################################################################################################################################
 
 
 
 
 
-######################################################################################################################################################################
-
-
-
-
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES🔴", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES🔴", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES🔴", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES🔴", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES🔴", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES🔴", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES🔴", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES", NOME🔴
+#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV FILMES🔴", NOME🔴
 LINK🔴
 
 
