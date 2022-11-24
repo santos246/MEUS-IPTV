@@ -459,142 +459,129 @@ https://stmv3.voxtvhd.com.br/ipanguacutv/ipanguacutv/chunklist_w997746270.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HeOx0ppyn9I/YUS-ANLm0CI/AAAAAAAAFlI/BS8FHrbVlHIlJuQGBxbuTZqQX1qYBaWZQCLcBGAsYHQ/s200/WEB%2BTV%2BCAICO.webp" group-title="TV DESENHOS", WEB TV CAICO 
 https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/chunklist_w1930887590.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QRM2bCyrLXw/YN9DCO8sf8I/AAAAAAAAE9k/jEOloftSjhMYLoleEhfNKzHRKXXok7BJACLcBGAsYHQ/s0/TV%2BCONTROLES.png" group-title="TV DESENHOS", TV CONTROLES
+https://livefocamundo.com:8081/tvcontroles/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#############################DOCUMENTÁRIOS##########################################################################################################
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Qh7sY5f_FwtrTjfs6-NPofFdIVt-czNZ2w9pt5vIC5PiiJET0y1j3ZyaN-hbKyJvZuqPneS7xpO7n3e4afbfmkgbNGAJKD3VCrZ4NSY39ZGDjmcPIsgr7zqHMm9ODeWUFO7xzJRUEmZKn3P47zMD_QE_Hv-_L2pBGi1NBqVlVQ8uW7_nEryOaBc9/s200/GHOST%20TV.webp" group-title="TV DOCUMENTÁRIOS", GHOST TV
+https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w1017928528.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NLooorUvm7k/X5Hbqlc2XvI/AAAAAAAADgY/U1afLcUB7kQXvlEUHYyxlJ8waG5Vg4kfwCLcBGAsYHQ/s0/TV%2BDIGITAL%2BBIRIGUI.png" group-title="TV DOCUMENTÁRIOS", TV DIGITAL BIRIGUI 
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1507300745.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-v32ljwWed34/XYRUfA9e4DI/AAAAAAAAB-I/zHe2ja5n-yEkT90dxgZ2CKbUtt_0-9nMQCLcBGAsYHQ/s320/Screenshot_2019-09-20-01-06-06.png" group-title="TV DOCUMENTÁRIOS", TVÍDEONEWS
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w610552477.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDXste-lGXSIdT3C8AeJ3odxQnZmZ1DlyRbi86JQ6v68vLq6br5bpMn-KdszsC2ZYbjB5DCKCFsU44bU1DfRRNT12e0b80gCeqclgPiUWw6NMnYrz-JIadttms9z_HY5XHvt05-U62BXtafnqfBeL-iFyVwN3tp4FxwFf7tKrmFAXBrrQoJhxwn-Lv/s200/MANHU%20TV.webp" group-title="TV DOCUMENTÁRIOS", MANHU TV 
+https://video01.logicahost.com.br/manhutv/manhutv/chunklist_w709125219.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgIgezEJGFa3EZDhoa7HxSWt9GQSVA7lIKUXL409tbj1Nw1O6tvf_UcskY3K_5KxjmDNM-b2e31LEmv0O5eYFrBaVLjO3B0Pi2tPcT2hmuEcPL1ivzNQKY9XZiBzoyfKUQ6fTmMXfYD5vOI7sA5-_oapWIZmAo75NWviuzoQJICiAmils-TII88wYY6=s200" group-title="TV DOCUMENTÁRIOS", RT DOCUMENTARY
+https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#############################NOTÍCIAS###############################################################################################################
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HukihvtCSF4/Xa44b3MUTJI/AAAAAAAACK0/kqvcXUq9AtQZmTIZ7ykCqLjbpIOvRTglwCLcBGAsYHQ/s320/Screenshot_2019-10-21-19-49-29.png" group-title="TV NOTÍCIAS", AL JAZEERA 
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-859LCxaAkoI/Xaer23BqWYI/AAAAAAAACJc/NfT623Q4ZpoocK128ptXIeowVDlEeYBtQCLcBGAsYHQ/s320/Screenshot_2019-10-16-20-40-09.png" group-title="TV NOTÍCIAS", CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgIgezEJGFa3EZDhoa7HxSWt9GQSVA7lIKUXL409tbj1Nw1O6tvf_UcskY3K_5KxjmDNM-b2e31LEmv0O5eYFrBaVLjO3B0Pi2tPcT2hmuEcPL1ivzNQKY9XZiBzoyfKUQ6fTmMXfYD5vOI7sA5-_oapWIZmAo75NWviuzoQJICiAmils-TII88wYY6=s200" group-title="TV NOTÍCIAS", RT DOCUMENTARY 
+https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##############################RÁDIASS###############################################################################################################
+
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UO-Ibi2o6GkFn-lG7Km4PWLYTcCuk8am2PlLixa4u-nFDhRnEZhTWtXcU-fvTMgH0x4b=w600-h300-pc0xffffff-pd" group-title="TV RÁDIAS", RÁDIO MONTE FM 96.7
+https://montefm.brasilstream.com.br/hls/montefm/index.m3u8?token=6902747156422017000
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UO-Ibi2o6GkFn-lG7Km4PWLYTcCuk8am2PlLixa4u-nFDhRnEZhTWtXcU-fvTMgH0x4b=w600-h300-pc0xffffff-pd" group-title="TV RÁDIAS", CATVE FM CASCAVEL 91.7 
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w693167920.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UO-Ibi2o6GkFn-lG7Km4PWLYTcCuk8am2PlLixa4u-nFDhRnEZhTWtXcU-fvTMgH0x4b=w600-h300-pc0xffffff-pd" group-title="TV RÁDIAS", 98 LIVE
+https://stream-01.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v83mugqcscpCK4Aq7E3Ocac3nguXeINb_VSTE4xd9y-V)/dm/3/x891ilj/d/live-3.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UO-Ibi2o6GkFn-lG7Km4PWLYTcCuk8am2PlLixa4u-nFDhRnEZhTWtXcU-fvTMgH0x4b=w600-h300-pc0xffffff-pd" group-title="TV RÁDIAS", 106.7 FM SERTANEJA 
+https://live.cdn.upx.com/2384/myStream.sdp/chunklist.m3u8?f36e755c0a3c9341957bfb352efa2524
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UO-Ibi2o6GkFn-lG7Km4PWLYTcCuk8am2PlLixa4u-nFDhRnEZhTWtXcU-fvTMgH0x4b=w600-h300-pc0xffffff-pd" group-title="TV RÁDIAS", RÁDIO CLUBE ARARENSE 
+https://virtues.es:1936/clubeararense/clubeararense/chunklist_w2064576111.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UO-Ibi2o6GkFn-lG7Km4PWLYTcCuk8am2PlLixa4u-nFDhRnEZhTWtXcU-fvTMgH0x4b=w600-h300-pc0xffffff-pd" group-title="TV RÁDIAS", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UO-Ibi2o6GkFn-lG7Km4PWLYTcCuk8am2PlLixa4u-nFDhRnEZhTWtXcU-fvTMgH0x4b=w600-h300-pc0xffffff-pd" group-title="TV RÁDIAS", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UO-Ibi2o6GkFn-lG7Km4PWLYTcCuk8am2PlLixa4u-nFDhRnEZhTWtXcU-fvTMgH0x4b=w600-h300-pc0xffffff-pd" group-title="TV RÁDIAS", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UO-Ibi2o6GkFn-lG7Km4PWLYTcCuk8am2PlLixa4u-nFDhRnEZhTWtXcU-fvTMgH0x4b=w600-h300-pc0xffffff-pd" group-title="TV RÁDIAS", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UO-Ibi2o6GkFn-lG7Km4PWLYTcCuk8am2PlLixa4u-nFDhRnEZhTWtXcU-fvTMgH0x4b=w600-h300-pc0xffffff-pd" group-title="TV RÁDIAS", NOME🔴
 LINK🔴
 
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-
-
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
-LINK🔴
-
-#EXTINF:-1 tvg-logo="IMAGEM🔴" group-title="TV DESENHOS", NOME🔴
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UO-Ibi2o6GkFn-lG7Km4PWLYTcCuk8am2PlLixa4u-nFDhRnEZhTWtXcU-fvTMgH0x4b=w600-h300-pc0xffffff-pd" group-title="TV RÁDIAS", NOME🔴
 LINK🔴
 
 
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UO-Ibi2o6GkFn-lG7Km4PWLYTcCuk8am2PlLixa4u-nFDhRnEZhTWtXcU-fvTMgH0x4b=w600-h300-pc0xffffff-pd" group-title="TV RÁDIAS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UO-Ibi2o6GkFn-lG7Km4PWLYTcCuk8am2PlLixa4u-nFDhRnEZhTWtXcU-fvTMgH0x4b=w600-h300-pc0xffffff-pd" group-title="TV RÁDIAS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UO-Ibi2o6GkFn-lG7Km4PWLYTcCuk8am2PlLixa4u-nFDhRnEZhTWtXcU-fvTMgH0x4b=w600-h300-pc0xffffff-pd" group-title="TV RÁDIAS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UO-Ibi2o6GkFn-lG7Km4PWLYTcCuk8am2PlLixa4u-nFDhRnEZhTWtXcU-fvTMgH0x4b=w600-h300-pc0xffffff-pd" group-title="TV RÁDIAS", NOME🔴
+LINK🔴
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UO-Ibi2o6GkFn-lG7Km4PWLYTcCuk8am2PlLixa4u-nFDhRnEZhTWtXcU-fvTMgH0x4b=w600-h300-pc0xffffff-pd" group-title="TV RÁDIAS", NOME🔴
+LINK🔴
 
 
 
