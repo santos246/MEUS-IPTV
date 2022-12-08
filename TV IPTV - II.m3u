@@ -137,48 +137,99 @@ https://livefocamundo.com:8081/tvcnb/tracks-v1a1/mono.m3u8
 https://stream.ads.ottera.tv/cl/34873658-0a59-4695-a395-340160c9b27f/1280x720_3071200_0_f.m3u8
 
 #EXTINF:0,
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w381322216.m3u8
+
+#EXTINF:0,
+https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/chunklist_w310894603.m3u8
+
+#EXTINF:0,
+https://stream.ads.ottera.tv/cl/afa4cfe4-8696-4133-bd77-1bc24bdf6640/1280x720_3071200_0_f.m3u8
+
+#EXTINF:0,
+https://stream.ads.ottera.tv/cl/d622f1e2-698a-4b52-9308-9b79dec4a341/1280x720_3071200_0_f.m3u8
+
+#EXTINF:0,
+https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+
+#EXTINF:0,
+https://5a0c3936c25c8.streamlock.net/8012/8012/chunklist_w926635118.m3u8
+
+#EXTINF:0,
+https://alanza.iptv2022.com/TV_CEI/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,
+https://stream.ads.ottera.tv/cl/3dea54ce-db78-4933-b257-00e5db283f4a/1280x720_3071200_0_f.m3u8
+
+#EXTINF:0,
+https://stmv2.samcast.com.br/rosanaa9913/rosanaa9913/chunklist_w367029972.m3u8
+
+#EXTINF:0,
+https://stream.ads.ottera.tv/cl/c575c944-6899-4502-8c0f-974a47348b9f/854x480_550000_3_f.m3u8
+
+#EXTINF:0,
+https://stmv3.duvoxtv.com.br/novelapl/novelapl/chunklist_w1236005552.m3u8
+
+#EXTINF:0,
+https://stmv.webtv.ninjascast.com.br/tvcapital777/tvcapital777/chunklist_w1273830375.m3u8
+
+#EXTINF:0,
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w2097253445.m3u8
+
+#EXTINF:0,
+https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w1376166006.m3u8
+
+#EXTINF:0,
+https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
+
+#EXTINF:0,
+https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w1395724424.m3u8
+
+#EXTINF:0,
+https://tvdatta.com:3100/live/herreratvlive.m3u8
+
+#EXTINF:0,
+https://stream.ads.ottera.tv/cl/dc262848-2a00-4b77-878e-6dd316559dd9/854x480_1355200_2_f.m3u8
+
+#EXTINF:0,
+https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1774853018.m3u8
+
+#EXTINF:0,
+https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYyt5tLxVWc4gVHqGtbFFmbSwLS-UwZ2UlvnF0spUPLr1)/dm/3/x7gy059/d/live-4.m3u8#cell=lnyc
+
+#EXTINF:0,
+https://stmv1.voxtvhd.com.br/escuchame/escuchame/chunklist_w1583810147.m3u8
+
+#EXTINF:0,
+https://stream.ads.ottera.tv/cl/00371f3e-b8ba-424b-8283-962a3282ca69/854x480_871350_3_f.m3u8
+
+#EXTINF:0,
+https://cdn01.yowi.tv/KQRSDA7GDB/live-1200.m3u8
+
+#EXTINF:0,
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
+
+#EXTINF:0,FIM
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:0,
-
-
-#EXTINF:0,
-
+https://edge-aws.aovivotv.xyz/hls/s:51.158.161.235/hbo2_05a53e36_913dfaafc1bd7263b943bdebf67cbef459454b05/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTg3LjE4LjEzOS4xMzQiO2k6MTtzOjEyOToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMDguMC4xNDYyLjQyIjtpOjI7aToxNjcwNTA5MDUxO30%3D
 
 #EXTINF:0,
+https://edge-aws.aovivotv.xyz/hls/s:51.15.123.117/starchannel_5a5b0f9b_4d4f8f53a4920a6ee400349aff277b323606e00c/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTg3LjE4LjEzOS4xMzQiO2k6MTtzOjEyOToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMDguMC4xNDYyLjQyIjtpOjI7aToxNjcwNTA5MTE5O30%3D
+
+#EXTINF:0,FIM 2
 
 
-#EXTINF:0,
 
-
-#EXTINF:0,
-
-
-#EXTINF:0,
-
-
-#EXTINF:0,
-
-
-#EXTINF:0,
-
-
-#EXTINF:0,
-
-
-#EXTINF:0,
-
-
-#EXTINF:0,
-
-
-#EXTINF:0,
-
-
-#EXTINF:0,
-
-
-#EXTINF:0,
 
 
 
@@ -187,49 +238,15 @@ https://stream.ads.ottera.tv/cl/34873658-0a59-4695-a395-340160c9b27f/1280x720_30
 
 
 #EXTINF:0,
+https://stream-03.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G41rJuDi4Rwpp-UDnRWERYIci2pqNMD84fbSjttRpHqg)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc
+
+#EXTINF:0,
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkfM30RnKllFEtLbAW2rYFGJCF29zEL6RIZKlmDFyAnT)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
+
+#EXTINF:0,FIM 3
 
 
 #EXTINF:0,
-
-
-#EXTINF:0,
-
-
-#EXTINF:0,
-
-
-#EXTINF:0,
-
-
-#EXTINF:0,
-
-
-#EXTINF:0,
-
-
-#EXTINF:0,
-
-
-#EXTINF:0,
-
-
-#EXTINF:0,
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -759,6 +776,15 @@ https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1285025134.m3u8
 #EXTINF:-1 tvg-logo="https://baixaraplicativo.com/wp-content/uploads/2021/06/App-TV-ao-vivo-8211-player-de-TV-aberta-ao-vivo.png" group-title="FILMES 24H", TV1
 LINK🔴
 -------------------------------------------------->
+https://www.cxtv.com.br/ FIM1
+https://aovivo.pro/tv/   FIM2
+https://tvonline.fm/     FIM3
+
+
+
+
+
+
 
 
 
