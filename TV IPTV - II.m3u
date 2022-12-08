@@ -71,16 +71,16 @@ https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
 https://stream.ads.ottera.tv/cl/007f09ad-3a51-43b1-ab6c-d564359b030b/854x480_1355200_2_f.m3u8
 
 #EXTINF:0,
-
-
-#EXTINF:0,
-
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:0,
-
+https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w1684587212.m3u8
 
 #EXTINF:0,
+https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
 
+#EXTINF:0,
+https://stmv1.srvif.com/unifm/unifm/chunklist_w114151156.m3u8
 
 #EXTINF:0,
 
